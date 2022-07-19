@@ -1,3 +1,2 @@
-# Gate & Door restricted by rank
-For Greater Imperial Germanic Realm
+# Gate & Door restricted by rank for GIGR
 Drag the file on studio
