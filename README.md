@@ -1,5 +1,4 @@
 # Gate & Door restricted by rank for GIGR
-Drag the file on studio
 Contents:
 - 2 Scripts inside ServerScriptService
 - 1 LocalScript inside StarterPlayerScripts inside StarterPlayer
